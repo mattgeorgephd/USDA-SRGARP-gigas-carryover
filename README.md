@@ -1,4 +1,7 @@
 # USDA-SRGARP-gigas-carryover
+
+![](https://github.com/mattgeorgephd/USDA-SRGARP-gigas-carryover/blob/main/CHULS.png)
+
 Title: Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices </br>
 2023-2024 [USDA-NIFA Special Research Grants for Aquaculture
 Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04/FY22-SRGARP-RFA-508.pdf)
