@@ -14,7 +14,8 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 2. [manuscript]()
 
 ## Progress
-1. 
+1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS
+2. 20230301 - oysters seperated into treatments. heat (13->30, 1hr/day) + mechanical stress (10min/3days) pre-treatments
 
 
 </br>
