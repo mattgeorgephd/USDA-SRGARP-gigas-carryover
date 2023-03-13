@@ -14,7 +14,8 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 ## Pertinent documents
 1. [proposal](https://docs.google.com/document/d/1Z1cGEJvTieQmvRmxzymGGf-YnUPVL7YWESoMa0ZLy6M/edit?usp=sharing)
 2. [immune priming pilot shell measurements](https://docs.google.com/spreadsheets/d/137GskcHVnR6iOBJ9MlP4Au8CMMez2Ew0IbhZ4HUnkYo/edit?usp=sharing)
-3. [manuscript]()
+3. [Primers](https://docs.google.com/spreadsheets/d/12gISRPRKuzlDohh_TWsFXoIXiaMj82R5ETDoWG1PE9w/edit#gid=0) 
+4. [manuscript]()
 
 ## Progress
 1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS
