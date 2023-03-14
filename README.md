@@ -1,6 +1,8 @@
 # USDA-SRGARP-gigas-carryover
 
-![](https://github.com/mattgeorgephd/USDA-SRGARP-gigas-carryover/blob/main/CHULS.png)
+|   |   |
+|---|---|
+|![](https://github.com/mattgeorgephd/USDA-SRGARP-gigas-carryover/blob/main/CHULS.png)   |![](https://www.fao.org/3/f0752e/F0752E17F.gif)   |
 
 Title: Improved climate resilience in oysters through optimization of hatchery-based environmental conditioning practices </br>
 2023-2024 [USDA-NIFA Special Research Grants for Aquaculture
@@ -11,10 +13,13 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 
 ## Pertinent documents
 1. [proposal](https://docs.google.com/document/d/1Z1cGEJvTieQmvRmxzymGGf-YnUPVL7YWESoMa0ZLy6M/edit?usp=sharing)
-2. [manuscript]()
+2. [immune priming pilot shell measurements](https://docs.google.com/spreadsheets/d/137GskcHVnR6iOBJ9MlP4Au8CMMez2Ew0IbhZ4HUnkYo/edit?usp=sharing)
+3. [Primers](https://docs.google.com/spreadsheets/d/12gISRPRKuzlDohh_TWsFXoIXiaMj82R5ETDoWG1PE9w/edit#gid=0) 
+4. [manuscript]()
 
 ## Progress
-1. 
+1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS
+2. 20230301 - oysters seperated into treatments. heat (13->30, 1hr/day) + mechanical stress (10min/3days) pre-treatments
 
 
 </br>
