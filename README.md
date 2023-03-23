@@ -18,9 +18,17 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 4. [manuscript]()
 
 ## Progress
-1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS
-2. 20230301 - oysters seperated into treatments. heat (13->30, 1hr/day) + mechanical stress (10min/3days) pre-treatments
-
+1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS; kept at ambient temperature (~12-14C)
+2. 20230301 - oysters seperated into treatments. heat (13->30, 1hr/day) + mechanical stress (10min/3days) pre-treatments; temperature in tanks at 14C
+3. 20230315 - oyster pre-treatments ended; third group of broodstock injected with poly(I:C); start of conditioning; temperature set at 14C (3d)
+4. 20230318 - temperature increased to 15C (3d)
+5. 20230321 - temperature increased to 16C (2d)
+6. 20230323 - temperature increased to 17C (2d)
+5. 20230325 - temperature increased to 18C (2d)
+6. 20230327 - temperature increased to 19C (2d)
+7. 20230329 - temperature increased to 20C (2d)
+8. 20230331 - temperature increased to 21C (hold)
+9. 20230428 - sample gonad for ripeness (4 weeks at 21C)
 
 </br>
 USDA: 62-7174
