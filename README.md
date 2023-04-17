@@ -16,6 +16,7 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 2. [immune priming pilot shell measurements](https://docs.google.com/spreadsheets/d/137GskcHVnR6iOBJ9MlP4Au8CMMez2Ew0IbhZ4HUnkYo/edit?usp=sharing)
 3. [Primers](https://docs.google.com/spreadsheets/d/12gISRPRKuzlDohh_TWsFXoIXiaMj82R5ETDoWG1PE9w/edit#gid=0) 
 4. [manuscript]()
+5. [tissue google sheet](https://docs.google.com/spreadsheets/d/1VKN9vogT6q5IpOo-PoB9WNeFUT3k_BCQ8_P7_DY81oM/edit?usp=sharing)
 
 ## Progress
 1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS; kept at ambient temperature (~12-14C)
