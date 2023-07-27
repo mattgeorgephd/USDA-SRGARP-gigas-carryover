@@ -18,6 +18,7 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 4. [manuscript]()
 5. [tissue google sheet](https://docs.google.com/spreadsheets/d/1VKN9vogT6q5IpOo-PoB9WNeFUT3k_BCQ8_P7_DY81oM/edit?usp=sharing)
 6. [RNA extraction protocol](https://github.com/mattgeorgephd/USDA-SRGARP-gigas-carryover/blob/main/protocols/RNA_extraction_protocol.docx)
+7. [Initial qPCR results](https://robertslab.github.io/sams-notebook/2023/07/26/qPCR-C.gigas-polyIC.html#results)
 
 ## Progress
 1. 20221108 - received 100 Pacific oyster broodstock from USDA-ARS POGS; kept at ambient temperature (~12-14C)
@@ -31,7 +32,7 @@ Research Program (SRGARP)](https://www.nifa.usda.gov/sites/default/files/2022-04
 7. 20230329 - temperature increased to 20C (2d)
 8. 20230331 - temperature increased to 21C (hold)
 9. 20230428 - sample gonad for ripeness (4 weeks at 21C)
-
+10. 20230727 - intitial qPCR results (injected vs control)
 </br>
 USDA: 62-7174
 
